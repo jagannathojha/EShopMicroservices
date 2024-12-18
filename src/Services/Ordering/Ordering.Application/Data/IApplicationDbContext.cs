@@ -1,6 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Ordering.Domain.Models;
-using System.Collections.Generic;
 
 namespace Ordering.Application.Data;
 public interface IApplicationDbContext
