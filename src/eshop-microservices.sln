@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Application", "Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering.Infrastructure", "Services\Ordering\Ordering.Infrastructure\Ordering.Infrastructure.csproj", "{81E4F305-C36B-4FB4-8084-33291AF8AD8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlock.Messaging", "BuildingBlocks\BuildingBlock.Messaging\BuildingBlock.Messaging.csproj", "{31D7B56E-A3C7-4595-9724-91332B4848CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlocks.Messaging", "BuildingBlocks\BuildingBlocks.Messaging\BuildingBlocks.Messaging.csproj", "{2947B32A-853A-4EE5-A2C7-56EE275AB38C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +77,10 @@ Global
 		{81E4F305-C36B-4FB4-8084-33291AF8AD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81E4F305-C36B-4FB4-8084-33291AF8AD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81E4F305-C36B-4FB4-8084-33291AF8AD8D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31D7B56E-A3C7-4595-9724-91332B4848CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31D7B56E-A3C7-4595-9724-91332B4848CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31D7B56E-A3C7-4595-9724-91332B4848CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31D7B56E-A3C7-4595-9724-91332B4848CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2947B32A-853A-4EE5-A2C7-56EE275AB38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2947B32A-853A-4EE5-A2C7-56EE275AB38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2947B32A-853A-4EE5-A2C7-56EE275AB38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2947B32A-853A-4EE5-A2C7-56EE275AB38C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,6 +98,6 @@ Global
 		{05C108E3-FD64-4C80-A16A-F22FDC315C33} = {AF430EBF-20D8-42B0-A73E-5EFE8C397E18}
 		{CEC6CBC2-A38D-44B6-98EF-E6F084AA40DE} = {AF430EBF-20D8-42B0-A73E-5EFE8C397E18}
 		{81E4F305-C36B-4FB4-8084-33291AF8AD8D} = {AF430EBF-20D8-42B0-A73E-5EFE8C397E18}
-		{31D7B56E-A3C7-4595-9724-91332B4848CB} = {9F79D5B6-8C98-4965-9112-ADF90B866E0B}
+		{2947B32A-853A-4EE5-A2C7-56EE275AB38C} = {9F79D5B6-8C98-4965-9112-ADF90B866E0B}
 	EndGlobalSection
 EndGlobal
